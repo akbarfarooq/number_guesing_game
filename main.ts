@@ -18,3 +18,4 @@ if (answer.myNumber === randomNumber) {
 } else {
   console.log("Wrong Number");
 }
+console.log("the end")
